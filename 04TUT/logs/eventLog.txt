@@ -1,4 +1,0 @@
-12 09 2023	20:27:15	02e371a2-f554-4b46-b37a-65e2872a549b	Log event emitted!
-12-09-2023	20:27:36	8241fc63-7eb6-4a26-a64e-195e6fe64dd7	Log event emitted!
-12-09-2023	20:34:43	c0de98b4-08fd-4056-84ca-ce94f2120966	Log event emitted!
-12-09-2023	20:35:09	8dae5830-8313-4282-8e3d-900ee8dd341e	Log event emitted!
